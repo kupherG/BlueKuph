@@ -1,5 +1,3 @@
-![BlueKuph banner](BK%20Graphic.png)
-
 # BlueKuph
 BlueKuph - Simple Bluetooth Audio device switcher divided into three sections:
 - **Windows exe** (Connecting/Disconnecting BT Audio device directly from Windows),

@@ -6,4 +6,4 @@
 - **Android apk** (Connecting/Disconnecting BT Audio device directly from Android),
 - **BlueKuph Bundle** (Windows and Android apps allowing to quickly switch BT Audio device between PC/Phone)
 
-Current state of project -> ***Windows exe program***
+Current state of project -> ***Windows exe program finished***
